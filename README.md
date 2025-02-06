@@ -4,7 +4,7 @@
 
 <h1 align="center">👩🏻‍💻 Vinícius Jesus - Desenvolvedor Front-End</h1>
 
-### Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS. Sou apaixonado por tecnologia e compartilho meu conhecimentos e projetos através do meu canal no YouTube "[Code By Vini](www.youtube.com/@CodeByVini)", onde apresento os projetos que desenvolvi.
+### Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS. Sou apaixonado por tecnologia e compartilho meu conhecimentos e projetos através do meu canal no YouTube "![Code By Vini](www.youtube.com/@CodeByVini)", onde apresento os projetos que desenvolvi.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Vinícius Jesus github stats" /> 
@@ -108,14 +108,5 @@
 <br>
 <br>
 <br>
-
-<p align="center"> 
-                   - Sempre fui apaixonado por tecnologia, me sinto realizado estudando Lingagens de programação.<br>
-    			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia!<br> <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViniJesus}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
