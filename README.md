@@ -12,10 +12,20 @@
 <br>
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Vinícius Jesus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&layout=compact&hide_border=true&theme=midnight-purple" />
-</div>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    width="420" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&bg_color=0d1117&title_color=7851A9&icon_color=7851A9&text_color=ffffff&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    width="320" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&bg_color=0d1117&title_color=7851A9&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 <br>
 <br>
