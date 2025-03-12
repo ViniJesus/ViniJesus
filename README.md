@@ -18,7 +18,7 @@
     alt="GitHub Stats" 
     height="200" 
     width="420" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&bg_color=0d1117&title_color=7851A9&icon_color=000000&text_color=39ff14&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=39ff14&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
