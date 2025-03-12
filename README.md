@@ -24,7 +24,7 @@
     alt="Top Langs" 
     height="200" 
     width="320" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&bg_color=0d1117&title_color=000000&text_color=39ff14&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&bg_color=000000&title_color=ffffff&text_color=39ff14&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
