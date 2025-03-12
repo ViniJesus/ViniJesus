@@ -1,4 +1,5 @@
-<img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=header"/>
+
 <br>
 <br>
 
@@ -118,5 +119,5 @@
 <br>
 <br>
 <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer"/>
 
-<img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
