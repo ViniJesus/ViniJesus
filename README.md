@@ -8,7 +8,9 @@
 <br>
 <br>
 
-### Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS. Sou apaixonado por tecnologia e compartilho meu conhecimentos e projetos através do meu canal no YouTube "[Code By Vini](https://www.youtube.com/@CodeByVini)", onde apresento os projetos que desenvolvi.
+<h2 align="center" >
+Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS. Sou apaixonado por tecnologia e compartilho meu conhecimentos e projetos através do meu canal no YouTube "Code By Vini https://www.youtube.com/@CodeByVini", onde apresento os projetos que desenvolvi.
+</h2>
 
 <br>
 <br>
@@ -54,62 +56,62 @@
     <img 
         alt="HTML"
         title="HTML" 
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
         alt="CSS" 
         title="CSS"
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
         alt="JavaScript" 
         title="JavaScript"
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img
         alt="TypeScript"
         title="TypeScript" 
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img  
         alt="React"
         title="React" 
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
         alt="SASS" 
         title="SASS"
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
     />
     <img
         alt="Git" 
         title="Git"
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     <img 
         alt="Python" 
         title="Python"
-        width="30px" 
+        width="60px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </div>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniJesus/ViniJesus/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniJesus/ViniJesus/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniJesus/ViniJesus/output/github-contribution-grid-snake.svg">
