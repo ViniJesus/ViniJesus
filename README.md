@@ -111,11 +111,10 @@ Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou natural de São Paulo. At
     />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniJesus/ViniJesus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniJesus/ViniJesus/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniJesus/ViniJesus/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
 
 <br>
 <br>
