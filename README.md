@@ -53,7 +53,7 @@
 ## 🧠 Animação 3D do GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ViniJesus/ViniJesus/main/profile-3d-contrib/profile-night-green.svg" alt="3D Profile Contribution"/>
+  <img src="https://raw.githubusercontent.com/ViniJesus/ViniJesus/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contribution"/>
 </div>
 
 ---
