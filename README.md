@@ -1,61 +1,23 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C799FF&height=120&section=header"/>
 
-<h1 align="center">👨🏻‍💻 Vinícius Jesus - Desenvolvedor Front-End</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 
-<p align="center">
-  <b>Olá! Me chamo Vinícius Silva de Jesus, tenho 21 anos e sou de São Paulo 🇧🇷</b><br>
-  Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>USCS</strong>.<br>
-  Sou apaixonado por tecnologia e compartilho meus projetos no canal <a href="https://www.youtube.com/@CodeByVini" target="_blank"><strong>Code By Vini</strong></a> 🎥🚀
-</p>
+<h3 align="left">
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Pronouns: he | his :nail_care: <br> 
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Open to work! :notebook: <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Living in São Paulo, Brazil :city_sunset: <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Learning new things :space_invader: <br> <br>
+</h3>
 
----
+<img src="https://nirzak-streak-stats.vercel.app/?user=vinijesus&theme=midnight-purple&hide_border=true" width="56%" height="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinijesus&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=39ff14&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&bg_color=000000&title_color=ffffff&text_color=39ff14&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
+<img src="https://github.com/ViniJesus/ViniJesus/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
 
----
-
-## 🤖 Linguagens e Tecnologias
-
-<div align="center">
-  <img title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img title="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img title="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img title="Sass" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img title="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img title="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</div>
-
----
-
-## 📱 Contato
-
-<div align="center">
-  <a href="https://www.instagram.com/vini_sjss/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:vini.jesus1342@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-jesus-5660a2232/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
-## 🧠 Animação 3D do GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ViniJesus/ViniJesus/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contribution"/>
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C799FF&height=120&section=footer"/>
