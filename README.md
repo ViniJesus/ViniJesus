@@ -17,7 +17,6 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=vinijesus&theme=midnight-purple&hide_border=true" width="56%" height="50%" align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinijesus&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
 
-
-<img src="https://github.com/ViniJesus/ViniJesus/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C799FF&height=120&section=footer"/>
