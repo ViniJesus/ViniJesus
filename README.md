@@ -5,13 +5,13 @@
 
 <h3 align="left">
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Pronouns: he | his :nail_care: <br> 
+      Pronouns: he | his <br> 
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Open to work! :notebook: <br>
+      Open to work! <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Living in São Paulo, Brazil :city_sunset: <br>
+      Living in São Paulo, Brazil <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Learning new things :space_invader: <br> <br>
+      Learning new things <br> <br>
 </h3>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=vinijesus&theme=midnight-purple&hide_border=true" width="56%" height="50%" align="right">
