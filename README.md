@@ -29,10 +29,9 @@
 <img src="assets/header-estatisticas.svg" alt="Estatísticas do GitHub" width="100%" />
 
 <p>
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&line_height=35" alt="GitHub stats" />
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&theme=midnight-purple&hide_border=true&layout=compact" alt="Top languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniJesus&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&line_height=35" alt="GitHub stats" />&nbsp;&nbsp;&nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJesus&theme=midnight-purple&hide_border=true&layout=compact" alt="Top languages" />
 </p>
-
 
 
 <br clear="both" />
